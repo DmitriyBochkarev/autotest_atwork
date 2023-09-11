@@ -1,10 +1,10 @@
 # autotest_atwork 1.0.0
-### Программа предназначена для автоматизированного тестирования сайта ya.ru
+### Программа предназначена для автоматизированного тестирования сайта https://anatoliinovikov.ru/projects/hotels/
 # Для запуска из командной строки на windows:
 ### 1) Открыть командную строку и создать папку проекта
 ### 2) Клонировать репозиторий
 ```commandline
-git clone  https://github.com/DmitriyBochkarev/autotest_atwork
+git clone https://github.com/DmitriyBochkarev/autotest_atwork
 ```
 ### 3) Установить виртуальное окружение
 ```commandline
